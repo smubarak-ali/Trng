@@ -1,0 +1,10 @@
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\bin\Debug\Tranglo.Auth.DataAccess.dll
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\bin\Debug\Tranglo.Auth.DataAccess.pdb
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\bin\Debug\Dapper.dll
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\bin\Debug\Tranglo.Auth.Model.dll
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\bin\Debug\Tranglo.Auth.Model.pdb
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\bin\Debug\Dapper.pdb
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\bin\Debug\Dapper.xml
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\obj\Debug\Tranglo.Auth.DataAccess.csprojResolveAssemblyReference.cache
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\obj\Debug\Tranglo.Auth.DataAccess.dll
+C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.DataAccess\obj\Debug\Tranglo.Auth.DataAccess.pdb
