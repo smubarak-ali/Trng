@@ -1,5 +1,0 @@
-C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleServiceApi\bin\Debug\SampleServiceApi.dll
-C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleServiceApi\bin\Debug\SampleServiceApi.pdb
-C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleServiceApi\obj\Debug\SampleServiceApi.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleServiceApi\obj\Debug\SampleServiceApi.dll
-C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleServiceApi\obj\Debug\SampleServiceApi.pdb
