@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STS\bin\Debug\STS.dll
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STS\bin\Debug\STS.pdb
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STS\obj\Debug\STS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STS\obj\Debug\STS.dll
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STS\obj\Debug\STS.pdb

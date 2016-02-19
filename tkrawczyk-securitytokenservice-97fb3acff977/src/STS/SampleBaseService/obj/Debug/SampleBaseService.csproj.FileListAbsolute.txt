@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleBaseService\bin\Debug\SampleBaseService.dll
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleBaseService\bin\Debug\SampleBaseService.pdb
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleBaseService\obj\Debug\SampleBaseService.dll
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\SampleBaseService\obj\Debug\SampleBaseService.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\bin\STSWebHost.dll.config
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\bin\STSWebHost.dll
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\bin\STSWebHost.pdb
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\bin\STS.dll
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\bin\STS.pdb
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\obj\Debug\STSWebHost.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\obj\Debug\STSWebHost.dll
+C:\Users\user\Desktop\tkrawczyk-securitytokenservice-97fb3acff977\src\STS\STSWebHost\obj\Debug\STSWebHost.pdb
