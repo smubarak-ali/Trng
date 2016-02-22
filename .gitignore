@@ -191,3 +191,4 @@ STS/src/STS/.vs/
 App.WebAPI/packages/
 **.pubxml
 [Pp]ublishProfiles/*
+/TrangloSTS/packages/*

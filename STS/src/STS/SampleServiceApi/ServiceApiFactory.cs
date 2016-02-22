@@ -38,6 +38,7 @@ namespace SampleServiceApi
         public T GetService<T>(string endpointConfigurationName)
         {
             var factory = new ChannelFactory<T>(endpointConfigurationName);
+            //factory.Credentials.UseIdentityConfiguration = true;
             _activeServices.Add(factory);
 
             return factory.CreateChannelWithIssuedToken(_authToken);

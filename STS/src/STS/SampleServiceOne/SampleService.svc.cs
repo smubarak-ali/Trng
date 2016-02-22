@@ -18,7 +18,7 @@ namespace SampleServiceOne
             return GenerateResponse(input);
         }
 
-        [PrincipalPermission(SecurityAction.Demand, Role = "Admin", Authenticated = true)]
+        [PrincipalPermission(SecurityAction.Demand, Authenticated = true)]
         public string ComputeResponseAdmin(string input)
         {
             return GenerateResponse(input);

@@ -6,6 +6,7 @@ using System.Text;
 using System.Windows.Forms;
 using STS.RelyingPartyApp.SampleServiceOne;
 using SampleServiceApi;
+using System.IdentityModel.Tokens;
 
 namespace STS.RelyingPartyApp
 {
@@ -98,10 +99,11 @@ namespace STS.RelyingPartyApp
         {
             rtbClaims.Clear();
             var request = "Test";
-            using (var serviceApi = new ServiceApiFactory(_authController.GeToken()))
+            var genericToken = _authController.GeToken() as GenericXmlSecurityToken;
+            using (var serviceApi = new ServiceApiFactory(genericToken))
             {
                 rtbClaims.AppendText("Call to Service One:");
-                var client = serviceApi.GetService<ISampleServiceOne>("WS2007FederationHttpBinding_ISampleServiceOne");
+                var client = serviceApi.GetService<ISampleServiceOne>("ServiceOne");//("WS2007FederationHttpBinding_ISampleServiceOne");
                 try
                 {
                     rtbClaims.AppendText("Method ComputeResponse");
