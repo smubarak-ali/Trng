@@ -190,5 +190,9 @@ ModelManifest.xml
 STS/src/STS/.vs/
 App.WebAPI/packages/
 **.pubxml
-[Pp]ublishProfiles/*
-/TrangloSTS/packages/*
+[Pp]ublishProfiles/
+TrangloSTS/packages/
+TrangloSTS/.vs/
+Tranglo-RP/packages/
+Tranglo-RP/.vs/
+SecureWCF/packages/
