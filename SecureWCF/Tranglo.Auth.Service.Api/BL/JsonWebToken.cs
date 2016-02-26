@@ -94,7 +94,7 @@ namespace Tranglo.Auth.Services.Api.BL
             {
                 var bytesToSign = Encoding.UTF8.GetBytes(string.Concat(header, ".", payload));
                 var keyBytes = Encoding.UTF8.GetBytes(key);
-                var algorithm = (string)headerData["alg"];
+                var algorithm = (string)headerData["algo"];
 
                 var signature = HashAlgorithms[GetHashAlgorithm(algorithm)](keyBytes, bytesToSign);
                 var decodedCrypto = Convert.ToBase64String(crypto);

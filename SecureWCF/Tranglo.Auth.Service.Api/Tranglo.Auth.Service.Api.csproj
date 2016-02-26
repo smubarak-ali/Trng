@@ -70,9 +70,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL\JsonWebToken.cs" />
-    <Compile Include="Custom\TokenValidationBehaviorExtension.cs" />
-    <Compile Include="Custom\TokenValidationInspector.cs" />
-    <Compile Include="Custom\TokenValidationServiceBehavior.cs" />
+    <Compile Include="CustomAttribute\TokenValidationBehaviorExtension.cs" />
+    <Compile Include="CustomAttribute\TokenValidationInspector.cs" />
+    <Compile Include="CustomAttribute\TokenValidationServiceBehavior.cs" />
     <Compile Include="Implementation\CredentialsValidatorImpl.cs" />
     <Compile Include="Implementation\TokenBuilderImpl.cs" />
     <Compile Include="Interface\ICredentialsValidator.cs" />

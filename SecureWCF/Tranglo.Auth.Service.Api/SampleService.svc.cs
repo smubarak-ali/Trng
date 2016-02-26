@@ -16,11 +16,13 @@ namespace Tranglo.Auth.Service.Api
     {
         JsonWebToken jwt = new JsonWebToken();
 
-        //public List<User> GetUsers()
-        //{
-        //    string userToken = string.Empty;
-        //    userToken = HttpContext.Current.Request.Headers.Get("token");
-        //    jwt.Decode(userToken);
-        //}
+        public List<User> GetUsers()
+        {
+            var list = new List<User>();
+            string userToken = string.Empty;
+            userToken = HttpContext.Current.Request.Headers.Get("token");
+            //jwt.Decode(userToken);
+            return list;
+        }
     }
 }

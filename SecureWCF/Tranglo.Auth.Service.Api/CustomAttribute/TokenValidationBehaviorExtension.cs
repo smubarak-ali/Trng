@@ -4,7 +4,7 @@ using System.Linq;
 using System.ServiceModel.Configuration;
 using System.Web;
 
-namespace Tranglo.Auth.Service.Api.Custom
+namespace Tranglo.Auth.Service.Api.CustomAttribute
 {
     public class TokenValidationBehaviorExtension : BehaviorExtensionElement
     {
