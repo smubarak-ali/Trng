@@ -1,4 +1,0 @@
-C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.Model\bin\Debug\Tranglo.Auth.Model.dll
-C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.Model\bin\Debug\Tranglo.Auth.Model.pdb
-C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.Model\obj\Debug\Tranglo.Auth.Model.dll
-C:\My-Projects\Tranglo\SecureWCF\Tranglo.Auth.Model\obj\Debug\Tranglo.Auth.Model.pdb

@@ -70,9 +70,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL\JsonWebToken.cs" />
+    <Compile Include="CustomAttribute\Token.cs" />
     <Compile Include="CustomAttribute\TokenValidationBehaviorExtension.cs" />
     <Compile Include="CustomAttribute\TokenValidationInspector.cs" />
     <Compile Include="CustomAttribute\TokenValidationServiceBehavior.cs" />
+    <Compile Include="CustomAttribute\UserAccessAttribute.cs" />
     <Compile Include="Implementation\CredentialsValidatorImpl.cs" />
     <Compile Include="Implementation\TokenBuilderImpl.cs" />
     <Compile Include="Interface\ICredentialsValidator.cs" />
@@ -92,6 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\sts-service.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
